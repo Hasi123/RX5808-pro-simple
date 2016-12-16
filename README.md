@@ -13,3 +13,5 @@ It's really simple and has the following functions:
 -Each time the channel is saved and it will be selected on the next boot-up
 
 -It also has a low-voltage alarm for lipo, or li-ion batteries
+
+You will need the ClickButton library to compile the program.
