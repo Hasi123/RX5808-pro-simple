@@ -6,7 +6,7 @@ It's really simple and has the following functions:
 
 -Change band via double click
 
--After changing channel/band you will hear as many beeps as the current channel/band
+-After changing channel/band you will hear as many beeps as the number of the current channel/band
 
 -Scan for the best signal and select that channel via holding the button
 
